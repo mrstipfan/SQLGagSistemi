@@ -1,0 +1,11 @@
+# Gerçek SQL bağlantı bilgileri
+panel_sqlgagsistemi.ini
+addons/amxmodx/configs/panel_sqlgagsistemi.ini
+
+# Derlenmiş AMXX çıktıları
+*.amxx
+compiled/
+
+# Loglar ve geçici dosyalar
+*.log
+*.tmp

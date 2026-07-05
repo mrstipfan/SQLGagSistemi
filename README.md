@@ -67,11 +67,6 @@ Bu sürümde proje bilgileri SQL Ban sistemiyle eşitlenmiştir:
 #define AUTHOR  "Onur MrStipFan MASALCI"
 ```
 
-> [!IMPORTANT]
-> Gerçek SQL kullanıcı adı ve parolanızı herkese açık GitHub deposuna yüklemeyin. Depoda yalnızca parola alanı boş bırakılmış örnek INI dosyası paylaşın.
-
----
-
 ## Öne Çıkan Özellikler
 
 - MySQL/MariaDB tabanlı kalıcı gag kayıtları
